@@ -1,0 +1,16 @@
+C:\Users\marco\source\repos\Patron_Compoosition\obj\Debug\net5.0\Patron_Compoosition.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\Patron_Compoosition\obj\Debug\net5.0\Patron_Compoosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\Patron_Compoosition\obj\Debug\net5.0\Patron_Compoosition.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\Patron_Compoosition\obj\Debug\net5.0\Patron_Compoosition.AssemblyInfo.cs
+C:\Users\marco\source\repos\Patron_Compoosition\obj\Debug\net5.0\Patron_Compoosition.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Patron_Compoosition\bin\Debug\net5.0\Patron_Compoosition.exe
+C:\Users\marco\source\repos\Patron_Compoosition\bin\Debug\net5.0\Patron_Compoosition.deps.json
+C:\Users\marco\source\repos\Patron_Compoosition\bin\Debug\net5.0\Patron_Compoosition.runtimeconfig.json
+C:\Users\marco\source\repos\Patron_Compoosition\bin\Debug\net5.0\Patron_Compoosition.runtimeconfig.dev.json
+C:\Users\marco\source\repos\Patron_Compoosition\bin\Debug\net5.0\Patron_Compoosition.dll
+C:\Users\marco\source\repos\Patron_Compoosition\bin\Debug\net5.0\ref\Patron_Compoosition.dll
+C:\Users\marco\source\repos\Patron_Compoosition\bin\Debug\net5.0\Patron_Compoosition.pdb
+C:\Users\marco\source\repos\Patron_Compoosition\obj\Debug\net5.0\Patron_Compoosition.dll
+C:\Users\marco\source\repos\Patron_Compoosition\obj\Debug\net5.0\ref\Patron_Compoosition.dll
+C:\Users\marco\source\repos\Patron_Compoosition\obj\Debug\net5.0\Patron_Compoosition.pdb
+C:\Users\marco\source\repos\Patron_Compoosition\obj\Debug\net5.0\Patron_Compoosition.genruntimeconfig.cache

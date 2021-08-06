@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Patron_Compoosition/1.0.0": {
+        "runtime": {
+          "Patron_Compoosition.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Patron_Compoosition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
